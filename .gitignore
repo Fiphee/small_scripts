@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .idea/
 short_scripts/
+.vscode/
