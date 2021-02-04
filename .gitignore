@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-.short_scripts/
+short_scripts/
